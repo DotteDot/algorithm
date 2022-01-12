@@ -7,7 +7,7 @@
 - C++
   - 쉬운문제 위주로 빠르게 익히기
 
-### 2022 Target
+### 2022 Goals
 - 💯 Solve 1000 questions!  
 - 🎓 Make Platinum Tear..
 
