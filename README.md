@@ -2,6 +2,6 @@
 
 
 ### How to work
-- BOJ : Python, C++
-- Programmers : Python
-- LeetCode : C++
+- [BOJ](https://www.acmicpc.net/) : Python, C++
+- [Programmers](https://programmers.co.kr/) : Python
+- [LeetCode](https://leetcode.com/) : C++
