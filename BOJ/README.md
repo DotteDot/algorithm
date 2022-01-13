@@ -2,6 +2,9 @@
 
 
 ### How to work
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdwlslrj">
+
 - Python
   - 매일 적어도 1문제
 - C++
