@@ -1,18 +1,22 @@
 # BOJ algorithm
 
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdwlslrj">
+<img src="http://mazandi.herokuapp.com/api?handle=tjdwlslrj&theme=warm"/>
+
 
 ### How to work
-
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdwlslrj">
 
 - Python
   - 매일 적어도 1문제
 - C++
   - 쉬운문제 위주로 빠르게 익히기
 
+
 ### 2022 Goals
+
 - 💯 Solve 1000 questions!  
 - 🎓 Make Platinum Tear..
+
 
 ### Tech Stack
 
