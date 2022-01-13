@@ -1,8 +1,9 @@
 # BOJ algorithm
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdwlslrj">
-<img src="http://mazandi.herokuapp.com/api?handle=tjdwlslrj&theme=warm"/>
-
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdwlslrj"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=tjdwlslrj&theme=warm"/>
+</p>
 
 ### How to work
 
