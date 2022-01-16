@@ -1,7 +1,7 @@
 #-*- coding: utf-8 -*-
 
 #2108 통계학.py
-
+ 
 import sys
 from collections import Counter
 
