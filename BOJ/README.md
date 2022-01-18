@@ -1,4 +1,4 @@
-# BOJ algorithm
+# Baekjoon Online Judge
 
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdwlslrj"/>
