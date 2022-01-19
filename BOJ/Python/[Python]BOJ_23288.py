@@ -113,5 +113,5 @@ for _ in range(n):
         ewsn = (ewsn + 3) % 4                           # 음수 처리해주기위해
                                                         # (a - 1 + 4) % 4
     dice = next_dice
-    
+
 print(result)
