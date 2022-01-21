@@ -46,3 +46,4 @@
 |  2022/01/21  |  15654  |  N과 M (5)   |  PYTHON  |  UPLOAD  |
 |  2022/01/22  |  15657  |  N과 M (8)   |  PYTHON  |  UPLOAD  |
 |  2022/01/22  |  15656  |  N과 M (7)   |  PYTHON  |  UPLOAD  |
+|  2022/01/22  |  15655  |  N과 M (6)   |  PYTHON  |  UPLOAD  |
