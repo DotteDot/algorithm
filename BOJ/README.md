@@ -45,3 +45,4 @@
 |  2022/01/21  |  20057  |  마법사 상어와 토네이도   |  PYTHON  |  UPDATE  |
 |  2022/01/21  |  15654  |  N과 M (5)   |  PYTHON  |  UPLOAD  |
 |  2022/01/22  |  15657  |  N과 M (8)   |  PYTHON  |  UPLOAD  |
+|  2022/01/22  |  15656  |  N과 M (7)   |  PYTHON  |  UPLOAD  |
