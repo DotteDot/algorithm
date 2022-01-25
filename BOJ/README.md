@@ -57,3 +57,4 @@
 |  2022/01/26  |  15665  |  N과 M (11)   |  PYTHON  |  UPLOAD  |
 |  2022/01/26  |  15664  |  N과 M (10)   |  PYTHON  |  UPLOAD  |
 |  2022/01/26  |  15663  |  N과 M (9)   |  PYTHON  |  UPLOAD  |
+|  2022/01/26  |  2116  |  주사위 쌓기   |  PYTHON  |  UPLOAD  |
