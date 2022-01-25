@@ -55,3 +55,4 @@
 |  2022/01/25  |  17837  |  새로운 게임2   |  PYTHON  |  UPLOAD  |
 |  2022/01/26  |  15666  |  N과 M (12)   |  PYTHON  |  UPLOAD  |
 |  2022/01/26  |  15665  |  N과 M (11)   |  PYTHON  |  UPLOAD  |
+|  2022/01/26  |  15664  |  N과 M (10)   |  PYTHON  |  UPLOAD  |
