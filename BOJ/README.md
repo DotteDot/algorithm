@@ -59,3 +59,4 @@
 |  2022/01/26  |  15663  |  N과 M (9)   |  PYTHON  |  UPLOAD  |
 |  2022/01/26  |  2116  |  주사위 쌓기   |  PYTHON  |  UPLOAD  |
 |  2022/01/27  |  10808  |  알파벳 개수   |  PYTHON  |  UPLOAD  |
+|  2022/01/28  |  2578  |  빙고   |  PYTHON  |  UPLOAD  |
