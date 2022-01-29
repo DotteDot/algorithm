@@ -64,3 +64,4 @@
 |  2022/01/29  |  2564  |  경비원   |  PYTHON  |  UPLOAD  |
 |  2022/01/30  |  2605  |  줄 세우기   |  PYTHON  |  UPLOAD  |
 |  2022/01/30  |  2491  |  수열   |  PYTHON  |  UPLOAD  |
+|  2022/01/30  |  14696  |  딱지놀이   |  PYTHON  |  UPLOAD  |
