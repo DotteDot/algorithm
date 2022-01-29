@@ -62,3 +62,4 @@
 |  2022/01/28  |  2578  |  빙고   |  PYTHON  |  UPLOAD  |
 |  2022/01/29  |  15685  |  드래곤 커브   |  PYTHON  |  UPLOAD  |
 |  2022/01/29  |  2564  |  경비원   |  PYTHON  |  UPLOAD  |
+|  2022/01/30  |  2605  |  줄 세우기   |  PYTHON  |  UPLOAD  |
