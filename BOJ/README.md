@@ -66,3 +66,4 @@
 |  2022/01/30  |  2491  |  수열   |  PYTHON  |  UPLOAD  |
 |  2022/01/30  |  14696  |  딱지놀이   |  PYTHON  |  UPLOAD  |
 |  2022/01/30  |  13300  |  방 배정   |  PYTHON  |  UPLOAD  |
+|  2022/01/31  |  10158  |  개미   |  PYTHON  |  UPLOAD  |
