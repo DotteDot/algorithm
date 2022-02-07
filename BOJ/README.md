@@ -79,3 +79,4 @@
 |  2022/02/07  |  14890  |  경사로   |  PYTHON  |  UPLOAD  |
 |  2022/02/07  |  2579  |  계단오르기   |  PYTHON  |  UPLOAD  |
 |  2022/02/07  |  1149  |  RGB거리   |  PYTHON  |  UPLOAD  |
+|  2022/02/07  |  1904  |  01타일   |  PYTHON  |  UPLOAD  |
