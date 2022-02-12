@@ -1,3 +1,7 @@
+#-*- coding: utf-8 -*-
+
+#16235 나무 재테크.py
+
 # from collections import deque
 
 # dx, dy = [0,0,1,-1,1,1,-1,-1], [1,-1,0,0,1,-1,1,-1]
@@ -42,10 +46,6 @@
 #         cnt += len(trees[i][j])
 # print(cnt)
 
-
-#-*- coding: utf-8 -*-
-
-#16235 나무 재테크.py
 
 from collections import deque
 
