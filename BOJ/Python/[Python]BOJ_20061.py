@@ -11,7 +11,7 @@ def green_move(t, x, y_min):
         else:
             green[9][x] = 1
             return 9, min(y_min, 9)
-    
+
     if t == 2:
         for i in range(10):
             if green[i][x] or green[i][x+1]:
