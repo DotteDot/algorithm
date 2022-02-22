@@ -89,4 +89,4 @@
 |  2022/02/17  |  2156  |  포도주 시식   |  PYTHON  |  UPLOAD  |
 |  2022/02/18  |  1912  |  연속합   |  PYTHON  |  UPLOAD  |
 |  2022/02/19  |  11054  |  가장 긴 바이토닉 부분 수열   |  PYTHON  |  UPLOAD  |
-|  2022/02/21  |  12100  |  2048 (Easy)   |  PYTHON  |  UPLOAD  |
+|  2022/02/22  |  12100  |  2048 (Easy)   |  PYTHON  |  UPDATE  |
