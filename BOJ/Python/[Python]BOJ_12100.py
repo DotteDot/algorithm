@@ -4,6 +4,7 @@
 
 from copy import deepcopy
 
+
 def move(lst, num, cnt):
     global MAX, N
 
