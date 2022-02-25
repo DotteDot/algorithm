@@ -91,3 +91,4 @@
 |  2022/02/19  |  11054  |  가장 긴 바이토닉 부분 수열   |  PYTHON  |  UPLOAD  |
 |  2022/02/22  |  12100  |  2048 (Easy)   |  PYTHON  |  UPDATE  |
 |  2022/02/24  |  9655  |  돌 게임   |  PYTHON  |  UPLOAD  |
+|  2022/02/25  |  2407  |  조합   |  PYTHON  |  UPLOAD  |
