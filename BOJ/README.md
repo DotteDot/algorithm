@@ -93,3 +93,4 @@
 |  2022/02/24  |  9655  |  돌 게임   |  PYTHON  |  UPLOAD  |
 |  2022/02/25  |  2407  |  조합   |  PYTHON  |  UPLOAD  |
 |  2022/03/01  |  17626  |  Four Squares   |  PYTHON  |  UPLOAD  |
+|  2022/03/02  |  14501  |  퇴사   |  PYTHON  |  UPLOAD  |
