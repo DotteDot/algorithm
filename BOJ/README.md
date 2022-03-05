@@ -94,4 +94,4 @@
 |  2022/02/25  |  2407  |  조합   |  PYTHON  |  UPLOAD  |
 |  2022/03/01  |  17626  |  Four Squares   |  PYTHON  |  UPLOAD  |
 |  2022/03/02  |  14501  |  퇴사   |  PYTHON  |  UPLOAD  |
-|  2022/03/03  |  13460  |  구슬 탈출 2   |  PYTHON  |  UPLOAD  |
+|  2022/03/05  |  13460  |  구슬 탈출 2   |  PYTHON  |  UPDATE  |
