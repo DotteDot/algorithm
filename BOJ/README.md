@@ -95,3 +95,4 @@
 |  2022/03/01  |  17626  |  Four Squares   |  PYTHON  |  UPLOAD  |
 |  2022/03/02  |  14501  |  퇴사   |  PYTHON  |  UPLOAD  |
 |  2022/03/05  |  13460  |  구슬 탈출 2   |  PYTHON  |  UPDATE  |
+|  2022/06/03  |  2512  |  예산   |  PYTHON  |  UPLOAD  |
